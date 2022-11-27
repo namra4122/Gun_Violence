@@ -1,0 +1,2 @@
+Crime analysis and prediction could be a  systematic approach for distinguishing and analyzing patterns and trends in crime. Our system will predict regions with a high chance of crime and visualize crime-prone areas. With the increasing advent of computerised systems, crime knowledge analysts can facilitate enforcement officers to hurry up the method of finding crimes. rather than that specialize in causes of crime incidence just like the criminal background of the offender, political hostility, etc we have a tendency to are focusing
+primarily on crime factors of every day.
